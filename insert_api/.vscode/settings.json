@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "insertapi\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "insertapi\\lib\\ojdbc8.jar"
+    ]
+}
